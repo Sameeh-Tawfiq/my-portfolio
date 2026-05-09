@@ -1,1 +1,2 @@
+My Portfolo
 Welcome to my portfolio! This repository showcases high-performance web applications built with Next.js. I specialize in creating fast, SEO-friendly, and responsive user interfaces. By leveraging Next.js features like Server-Side Rendering (SSR) and Static Site Generation (SSG), I build modern web experiences that are both functional and optimized
