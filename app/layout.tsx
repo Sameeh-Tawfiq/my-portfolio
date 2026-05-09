@@ -18,23 +18,22 @@ const vt323 = VT323({
 export const metadata: Metadata = {
   title: 'Sameeh Tawfik | Software Engineer',
   description: 'Front-End Web Developer Portfolio - 80s Retro Style',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
-        url: '/icon-light-32x32.png',
+        url: 'href="https://cdn.myportfolio.com/0d406646a252c5f22cb43a048423e032/63d38db3-5aee-4ba0-a718-83691f8f0fad_carw_1x1x32.png?h=506fac63b6f7609de5d36c7e14bd7688"',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon-dark-32x32.png',
+        url: 'href="https://cdn.myportfolio.com/0d406646a252c5f22cb43a048423e032/63d38db3-5aee-4ba0-a718-83691f8f0fad_carw_1x1x32.png?h=506fac63b6f7609de5d36c7e14bd7688"',
         media: '(prefers-color-scheme: dark)',
       },
       {
-        url: '/icon.svg',
+        url: 'href="https://cdn.myportfolio.com/0d406646a252c5f22cb43a048423e032/63d38db3-5aee-4ba0-a718-83691f8f0fad_carw_1x1x32.png?h=506fac63b6f7609de5d36c7e14bd7688"',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    apple: 'href="https://cdn.myportfolio.com/0d406646a252c5f22cb43a048423e032/63d38db3-5aee-4ba0-a718-83691f8f0fad_carw_1x1x32.png?h=506fac63b6f7609de5d36c7e14bd7688"',
   },
 }
 
