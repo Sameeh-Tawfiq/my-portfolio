@@ -39,7 +39,7 @@ If you want to run this project locally:
 git clone https://github.com/samih-tawfik/my-portfolio.git
 
 # Navigate into the project
-cd portfolio
+cd my-portfolio
 
 # Install dependencies
 npm install
