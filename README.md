@@ -1,8 +1,5 @@
 ⚡ Sameh’s Portfolio
-<p align="center"> 🚀 Welcome to my digital space <br/> <b>A modern developer portfolio built with passion, performance, and clean UI</b> </p> <p align="center"> 🔗 Live Site: <a href="https://sameeh-portfolio.vercel.app/">sameeh-portfolio.vercel.app</a> </p>
-🌌 “First Impression”
-
-“Good design is not just what it looks like — it’s how it feels.”
+<p align="center"> 🚀 Welcome to my portfolio <br/> <b>A modern portfolio built with passion, performance, and clean UI</b> </p> <p align="center"> 🔗 Live Site: <a href="https://sameeh-portfolio.vercel.app/">sameeh-portfolio.vercel.app</a> </p>
 
 This portfolio is my personal corner of the internet where I showcase:
 
@@ -55,18 +52,17 @@ git clone https://github.com/your-username/portfolio.git
 cd portfolio
 npm install
 npm run dev
-🌍 Deployment
 
+🌍 Deployment
 ⚡ Hosted on Vercel for lightning-fast global performance
 🌐 Optimized for SEO & responsiveness
 
 🧠 Philosophy
-
 “I don’t just build websites — I build experiences.”
 
 📬 Connect With Me
 🌐 Portfolio: https://sameeh-portfolio.vercel.app
-💻 GitHub: (add your link)
-📧 Email: (add your email)
+💻 GitHub: https://github.com/Sameeh-Tawfiq
+📧 Email: sameehtawfik2024@gmail.com
 ⭐ Final Touch
 <p align="center"> If you like this project, consider giving it a ⭐ <br/> It keeps the motivation running 🚀 </p>
